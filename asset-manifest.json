@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Popp180/To-do-list/static/css/main.fb3f53c4.css",
+    "main.js": "/Popp180/To-do-list/static/js/main.a7d7a74c.js",
+    "static/js/453.a75d08ec.chunk.js": "/Popp180/To-do-list/static/js/453.a75d08ec.chunk.js",
+    "index.html": "/Popp180/To-do-list/index.html",
+    "main.fb3f53c4.css.map": "/Popp180/To-do-list/static/css/main.fb3f53c4.css.map",
+    "main.a7d7a74c.js.map": "/Popp180/To-do-list/static/js/main.a7d7a74c.js.map",
+    "453.a75d08ec.chunk.js.map": "/Popp180/To-do-list/static/js/453.a75d08ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3f53c4.css",
+    "static/js/main.a7d7a74c.js"
+  ]
+}
